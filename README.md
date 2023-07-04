@@ -16,7 +16,7 @@ This is a basic Instagram clone project created using HTML and CSS. The project 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/instagram-clone.git`
+1. Clone the repository: `git clone https://github.com/Sau2901/instagram-clone.git`
 2. Navigate to the project directory: `cd instagram-clone`
 3. Open the `index.html` file in your preferred web browser.
 
